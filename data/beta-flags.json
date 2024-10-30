@@ -1,0 +1,19 @@
+{
+	"flags": {
+		"new_sidebar": {
+			"title": "New sidebar",
+			"description": "Add a 300px-wide sidebar to the post page",
+			"author": "Charles Jaimet"
+		},
+		"sticky_video": {
+			"title": "Sticky video in featured slot",
+			"description": "Lets video collapse to thumbnail on scroll past",
+			"author": "Charles Jaimet"
+		},
+		"redesign_v109": {
+			"title": "Redesign v.1.0.9",
+			"description": "New CSS using Material Design to make the site look mor Googlish",
+			"author": "Fred Page"
+		}
+	}
+}
